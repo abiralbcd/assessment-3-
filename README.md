@@ -17,6 +17,8 @@ This e-portfolio explores six artefacts about ADM in Australia and the United Ki
 ---
 
 ## Artefact 1 – Understanding Automated Decision Making
+<img width="1116" height="528" alt="image" src="https://github.com/user-attachments/assets/052fc00c-39d9-483b-9a8f-f62ea0c6cd09" />
+
 
 **Source:** Office of the Australian Information Commissioner (2026)
 
@@ -24,7 +26,7 @@ This e-portfolio explores six artefacts about ADM in Australia and the United Ki
 
 ### Summary of the artefact
 
-This report from the Office of the Australian Information Commissioner explains how Australian government agencies use Automated Decision Making. It discusses the use of ADM in areas such as social services, migration and aged care. The report also examines how clearly government agencies explain their use of ADM to the public. It recommends improving transparency so people can understand when computer systems are involved in decisions that affect them.
+This report from the Office of the Australian Information Commissioner explains how Australian government agencies use Automated Decision Making. It discusses the use of ADM in areas such as social services, migration and aged care. The report also examines how clearly government agencies explain their use of ADM to the public. It recommends improving transparency so individuals can understand when computer systems are involved in decisions that affect them.
 
 ### Justification on why I chose the artefact
 
@@ -33,6 +35,8 @@ I chose this artefact because it helped me understand that ADM is not always abo
 ---
 
 ## Artefact 2 – Human Rights and Automated Decisions
+<img width="1052" height="662" alt="image" src="https://github.com/user-attachments/assets/75ac5a5e-fedf-4279-9c73-087a938ce16a" />
+
 
 **Source:** Australian Human Rights Commission (2025)
 
@@ -49,6 +53,7 @@ I chose this artefact because I think fairness is one of the most important issu
 ---
 
 ## Artefact 3 – Responsible Use of AI in Australian Government
+<img width="1345" height="796" alt="image" src="https://github.com/user-attachments/assets/79a99bf5-c630-4b7e-9f0d-b0c31bd47772" />
 
 **Source:** Digital Transformation Agency (2026)
 
@@ -65,6 +70,8 @@ I chose this article because it shows that ethical issues should be considered b
 ---
 
 ## Artefact 4 – Automated Decision Making in Centrelink
+<img width="1174" height="655" alt="image" src="https://github.com/user-attachments/assets/eab976fd-39f7-440e-831b-6ac52958ade5" />
+
 
 **Source:** Australian National Audit Office (2026)
 
@@ -81,6 +88,8 @@ I chose this artefact because Centrelink decisions can affect people's financial
 ---
 
 ## Artefact 5 – Algorithmic Transparency in the United Kingdom
+<img width="729" height="525" alt="image" src="https://github.com/user-attachments/assets/eaf9f0e0-43e3-4fa2-8c71-9d763acb247a" />
+
 
 **Source:** UK Government (2025)
 
@@ -97,6 +106,8 @@ I chose this artefact because I wanted to compare how another country deals with
 ---
 
 ## Artefact 6 – Predictive Analytics in the UK Child Maintenance Service
+<img width="739" height="540" alt="image" src="https://github.com/user-attachments/assets/1d256db4-de72-4f88-ab62-32ef7834c345" />
+
 
 **Source:** UK Department for Work and Pensions (2025)
 
